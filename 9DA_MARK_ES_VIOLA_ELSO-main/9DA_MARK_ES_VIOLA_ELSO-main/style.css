@@ -1,0 +1,45 @@
+body{
+  background-image: url(background2-jpg.jpg);
+  color:white;
+  font-family:Arial;
+  font-size: 18px;
+  background-repeat: no-repeat;
+  background-size:200%
+
+}
+
+#kep1{
+  width:60%;
+  height:370px;
+  border:white 2px solid;
+}
+
+#kep2{
+width:37%;
+float:right;
+height:370px;
+border:white 2px solid;
+}
+#kep3{
+  width:300px;
+  border:white 2px solid;
+  position: relative;
+  left:492px;
+  bottom:650px;
+}
+#szar{
+  width:70%;
+  margin:auto auto;
+  border:8px solid white;
+  padding:10px;
+  background-color:darkcyan;
+} 
+.lista{
+  position: relative;
+  margin-left:600px;
+  bottom:1120px;
+}
+.szoveg{
+  width:500px;
+
+}

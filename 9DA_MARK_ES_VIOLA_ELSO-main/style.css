@@ -1,29 +1,11 @@
 body{
-  background-color: darkred;
-  color:white;
-  font-family:Arial;
-  font-size: 18px;
+  background-image:url(background.jpg);
 }
 
 #kep1{
-  width:60%;
-  height:370px;
-  border:white 2px solid;
+width:60%;
 }
 
 #kep2{
-width:37%;
-float:right;
-height:370px;
-border:white 2px solid;
-}
-#szar{
-  width:70%;
-  margin:auto auto;
-  border:8px solid white;
-  padding:10px;
-  background-color:darkcyan;
-} 
-.lista{
-  background-color:pink;
+width:40%;
 }
