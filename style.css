@@ -1,11 +1,50 @@
 body{
-  background-image:url(background.jpg);
+  background-image: url(background2-jpg.jpg);
+  color:white;
+  font-family:Arial;
+  font-size: 18px;
+  background-repeat: no-repeat;
+  background-size:150%;
+  height:1000px;
 }
 
 #kep1{
-width:60%;
+  width:60%;
+  height:370px;
+  border:white 2px solid;
 }
 
 #kep2{
-width:40%;
+width:37%;
+float:right;
+height:370px;
+border:white 2px solid;
+}
+#kep3{
+  width:300px;
+  border:white 2px solid;
+  position: relative;
+  left:492px;
+  bottom:670px;
+  margin-left:10px;
+}
+#szar{
+  width:70%;
+  margin:auto auto;
+  border:8px solid white;
+  padding:10px;
+  background-color:darkcyan;
+  height:1150px;
+} 
+.lista{
+  position: relative;
+  margin-left:600px;
+  bottom:1150px;
+  width:500px;
+  left:220px;
+  text-transform: lowercase;
+}
+.szoveg{
+  width:490px;
+  text-align:justify;
 }
